@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cg-erp-mobile-privacy-policy",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
